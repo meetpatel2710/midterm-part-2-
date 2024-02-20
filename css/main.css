@@ -1,0 +1,53 @@
+body{
+    width: 90px;
+    max-width: 1200px;
+    margin: auto;
+    border: 2px;
+    font: normal 16px/1.5 Arial, sans-serif;
+}
+.structul{
+    margin: 10px;
+    padding: 10px;
+} 
+h1{
+    color:#9af804 ;
+    font-size: 24px;
+}
+h2{
+    color: aqua;
+    font-size: 20px;
+}
+main{
+    height: 70vh;
+}
+img{
+    width: 90%;
+    height: 80%;
+    border: 1px solid #000 ;
+}
+figure{
+    background-color:#f9f9f9 ;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+#fig1{
+    float: right;
+}
+#fig2{
+    float: left;
+}
+section{
+    clear: both;
+}
+figcaption{
+    font-weight: bold;
+    font-size: 14px;
+    color: #333;
+    padding: 5px;
+}
+footer{
+    text-align: center;
+}
+    
